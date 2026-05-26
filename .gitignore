@@ -1,0 +1,14 @@
+# Datos personales — no subir
+contactos.json
+historial.json
+config.json
+PyWhatKit_DB.txt
+
+# Capturas de pantalla generadas
+captura_*.png
+
+# Temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+.env
